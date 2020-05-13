@@ -1,6 +1,4 @@
 <?xml version="1.0" standalone="yes"?>
 <CONTRYES>
-  <Contry Id="1" Nombre="Colombia" Population="123" />
-  <Contry Id="2" Nombre="Cuba" Population="10000" />
-  <Contry Id="3" Nombre="USA" Population="1400" />
+  
 </CONTRYES>
